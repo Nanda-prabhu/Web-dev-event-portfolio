@@ -10,7 +10,7 @@ tags - h1, h2, p, br, hr
 comments
 pesticide
 advanced tags - a, img
-   "     tags - list, tables
+   "     tags - list, table..tr..th..td
 w3schools
 class, id
 div, span
