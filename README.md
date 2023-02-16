@@ -1,17 +1,16 @@
 # Web-dev-event-portfolio
 
-- [ ] bg, color, size, 
-- [ ] display
-- [ ] import google fonts
-- [ ] id
-- [ ] div, span
-- [ ] box-model - margin, padding
- - [ ]   "     tags - list, table..tr..th..td
+- [x] bg, color, size, 
+- [x] display
+- [x] import google fonts
+- [x] id
+- [x] div, span
+- [x] box-model - margin, padding
+ - [x]   "     tags - list, table..tr..th..td
 
-- [ ] hosting
-- [ ] dev tools
+- [x] hosting
+- [x] dev tools
 
-<br>
 <br>
 
 - [x] ~~About us~~
